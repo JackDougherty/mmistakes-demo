@@ -1,10 +1,8 @@
 ---
-title: Portfolio
+title: Teaching, Advising, and Digital Scholarship
 layout: collection
-permalink: /portfolio/
+permalink: /
 collection: portfolio
 entries_layout: grid
 classes: wide
 ---
-
-Sample document listing for the collection `_portfolio`.

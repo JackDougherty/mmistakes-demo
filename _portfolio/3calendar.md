@@ -8,6 +8,5 @@ redirect_to:
 header:
   image: images/home/calendar-300x200.png
   teaser: images/home/calendar-300x200.png
-
 ---
 Go here [this link](https://jackdougherty.youcanbook.me)

@@ -2,6 +2,9 @@
 title: "Teaching"
 permalink: /teaching/
 date: 2021-12-13
+header:
+  image: /images/sample-300x200.jpg
+  teaser: /images/sample-300x200.jpg
 ---
 [See also my posts about teaching](https://jackdougherty.org/categories/#teaching) for pedagogical resources and personal reflections.
 
