@@ -1,9 +1,11 @@
 ---
-title: "Advising and Appointment Calendar"
+title: "Advising Trinity Students"
 permalink: /advising/
 date: 2022-06-17
+header:
+  image: /images/sample-300x200.jpg
+  teaser: /images/sample-300x200.jpg
 ---
-{% include figure image_path="images/2017/educ-dinner-small.jpg" alt="Educational Studies Majors Dinner 2017" caption="Educational Studies Majors Dinner, April 2017" %}
 
 ## Advising Resources
 - [UNOFFICIAL guide to completing your Trinity College degree](http://bit.ly/complete-degree)
