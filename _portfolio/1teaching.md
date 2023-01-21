@@ -4,7 +4,7 @@ permalink: /teaching/
 date: 2023-01-21
 header:
   teaser: /images/sample-300x200.jpg
-excerpt: My courses in US educational history, policy, and practice; and data visualization"
+excerpt: "US educational history & policy; teaching & learning; and data visualization"
 ---
 [See also my posts about teaching](https://jackdougherty.org/categories/#teaching) for pedagogical resources and personal reflections.
 
