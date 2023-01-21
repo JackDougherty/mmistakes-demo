@@ -1,10 +1,11 @@
 ---
 title: "Teaching"
 permalink: /teaching/
-date: 2021-12-13
+date: 2023-01-21
 header:
   image: /images/sample-300x200.jpg
   teaser: /images/sample-300x200.jpg
+excerpt: My courses in US educational history, policy, and practice; and data visualization"
 ---
 [See also my posts about teaching](https://jackdougherty.org/categories/#teaching) for pedagogical resources and personal reflections.
 
