@@ -1,8 +1,8 @@
 ---
 title: "Calendar"
 permalink: /calendar/
-date: 2022-12-20
-excerpt: "Schedule an appointment on my online calendar (teaser image only, redirects)"
+date: 2023-01-21
+excerpt: "Schedule an appointment on my online calendar"
 redirect_to: 
   - https://jackdougherty.youcanbook.me
 header:

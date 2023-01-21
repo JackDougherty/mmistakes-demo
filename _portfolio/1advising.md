@@ -1,15 +1,10 @@
 ---
-title: "Advising Trinity Students"
+title: "Advising"
 permalink: /advising/
 date: 2022-06-17
-excerpt: "Testing image with caption, actions with url"
+excerpt: "undergraduate students at Trinity College"
 header:
-  image: /images/sample-300x200.jpg
   teaser: /images/sample-300x200.jpg
-  caption: "Caption here"
-  actions:
-    - label: "More Info"
-    - url: "https://unsplash.com"
 ---
 
 ## Advising Resources

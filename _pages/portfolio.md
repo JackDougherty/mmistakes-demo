@@ -1,5 +1,5 @@
 ---
-title: Teaching(), Advising, and Digital Scholarship
+title: Teaching, Advising, and Digital Scholarship (order?)
 layout: collection
 permalink: /
 collection: portfolio
